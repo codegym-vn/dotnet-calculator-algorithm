@@ -1,0 +1,11 @@
+D:\CodeGym\Practice\dotnet-calculator-algorithm\bin\Debug\netcoreapp3.1\dotnet-calculator-algorithm.exe
+D:\CodeGym\Practice\dotnet-calculator-algorithm\bin\Debug\netcoreapp3.1\dotnet-calculator-algorithm.deps.json
+D:\CodeGym\Practice\dotnet-calculator-algorithm\bin\Debug\netcoreapp3.1\dotnet-calculator-algorithm.runtimeconfig.json
+D:\CodeGym\Practice\dotnet-calculator-algorithm\bin\Debug\netcoreapp3.1\dotnet-calculator-algorithm.runtimeconfig.dev.json
+D:\CodeGym\Practice\dotnet-calculator-algorithm\bin\Debug\netcoreapp3.1\dotnet-calculator-algorithm.dll
+D:\CodeGym\Practice\dotnet-calculator-algorithm\bin\Debug\netcoreapp3.1\dotnet-calculator-algorithm.pdb
+D:\CodeGym\Practice\dotnet-calculator-algorithm\obj\Debug\netcoreapp3.1\dotnet-calculator-algorithm.csprojAssemblyReference.cache
+D:\CodeGym\Practice\dotnet-calculator-algorithm\obj\Debug\netcoreapp3.1\dotnet-calculator-algorithm.AssemblyInfoInputs.cache
+D:\CodeGym\Practice\dotnet-calculator-algorithm\obj\Debug\netcoreapp3.1\dotnet-calculator-algorithm.AssemblyInfo.cs
+D:\CodeGym\Practice\dotnet-calculator-algorithm\obj\Debug\netcoreapp3.1\dotnet-calculator-algorithm.dll
+D:\CodeGym\Practice\dotnet-calculator-algorithm\obj\Debug\netcoreapp3.1\dotnet-calculator-algorithm.pdb
